@@ -45,7 +45,7 @@ function App() {
               <CloudIcon size={28} />
             </motion.div>
             <h1 className="text-xl font-semibold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              DropBox
+              DropBox2
             </h1>
           </div>
           
